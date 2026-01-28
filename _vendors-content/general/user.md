@@ -1,3 +1,4 @@
+<img width="1080" height="2400" alt="1000128767" src="https://github.com/user-attachments/assets/7c9ef960-cd61-437f-b5e1-e97bdb71aae4" />
 ---
 manufacturer:
     - general
